@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1759371157.13776 "main.aux" "main.bbl" "main" 1759372466.95997 0
+["bibtex main"] 1759371157.13776 "main.aux" "main.bbl" "main" 1759372854.76686 0
   "./ref.bib" 1759371563.33118 382 93b9ea371c33f063fbde1f66acf15d01 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/bibtex/bst/base/plain.bst" 1741388039 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1759372466.80757 498 fd1d16dcd85017fc1ba154e750614523 "pdflatex"
+  "main.aux" 1759372854.63002 498 fd1d16dcd85017fc1ba154e750614523 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1759372466.5436 "/Users/arthurchen/MAT292_Project_2025F/main.tex" "main.pdf" "main" 1759372466.96011 0
-  "/Users/arthurchen/MAT292_Project_2025F/main.tex" 1759372466.44572 1317 568f7cb107dbceb7f9a4db590ae6a7a9 ""
+["pdflatex"] 1759372854.36701 "/Users/arthurchen/MAT292_Project_2025F/main.tex" "main.pdf" "main" 1759372854.76697 0
+  "/Users/arthurchen/MAT292_Project_2025F/main.tex" 1759372854.18105 1379 6417a139aec7559b757b102dd7a94ef1 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1741388039 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -51,9 +51,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/natbib/natbib.sty" 1741388039 45456 1c8843383c0bd05870c45fa0ebea6cc2 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
-  "main.aux" 1759372466.80757 498 fd1d16dcd85017fc1ba154e750614523 "pdflatex"
+  "main.aux" 1759372854.63002 498 fd1d16dcd85017fc1ba154e750614523 "pdflatex"
   "main.bbl" 1759371157.20256 295 7ea0295a90f1589a3979fdb8f838152a "bibtex main"
-  "main.tex" 1759372466.44572 1317 568f7cb107dbceb7f9a4db590ae6a7a9 ""
+  "main.tex" 1759372854.18105 1379 6417a139aec7559b757b102dd7a94ef1 ""
   (generated)
   "main.aux"
   "main.log"
