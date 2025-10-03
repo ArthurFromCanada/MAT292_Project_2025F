@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1759452777.57666 "main.aux" "main.bbl" "main" 1759453115.47886 0
-  "./ref.bib" 1759452744.17773 6299 0f099c8f7683e8eb78575bbdbee50368 ""
+["bibtex main"] 1759522216.28248 "main.aux" "main.bbl" "main" 1759522216.85626 0
+  "./ref.bib" 1759522215.53376 7381 d4fb383f1b47a7d6c113f664f5ea8ea1 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/bibtex/bst/base/plain.bst" 1741388039 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1759453115.31123 2003 744e53994d2a631ec06dbd347a2c704b "pdflatex"
+  "main.aux" 1759522216.66974 2148 b2ad51d7d3d3e7390b5430416db9980c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1759453114.96437 "/Users/arthurchen/MAT292_Project_2025F/main.tex" "main.pdf" "main" 1759453115.47899 0
-  "/Users/arthurchen/MAT292_Project_2025F/main.tex" 1759453114.74181 6856 83f55be31b82314591d50704256dad2e ""
+["pdflatex"] 1759522216.3475 "/Users/arthurchen/MAT292_Project_2025F/main.tex" "main.pdf" "main" 1759522216.85637 0
+  "/Users/arthurchen/MAT292_Project_2025F/main.tex" 1759522202.04224 7484 70aab3441658be5f288c30993104e97d ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1741388039 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -74,9 +74,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
   "Image.jpeg" 1759452752.21137 37910 3bac21b6dc9ff7202c59ec7e2fbecae6 ""
-  "main.aux" 1759453115.31123 2003 744e53994d2a631ec06dbd347a2c704b "pdflatex"
-  "main.bbl" 1759452777.63841 1368 fa84e133b5491a40e9c6128f5eef950b "bibtex main"
-  "main.tex" 1759453114.74181 6856 83f55be31b82314591d50704256dad2e ""
+  "main.aux" 1759522216.66974 2148 b2ad51d7d3d3e7390b5430416db9980c "pdflatex"
+  "main.bbl" 1759522216.34611 1553 385be6c69653a11f9e3273793fcc007b "bibtex main"
+  "main.tex" 1759522202.04224 7484 70aab3441658be5f288c30993104e97d ""
   (generated)
   "main.aux"
   "main.log"
