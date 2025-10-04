@@ -12,7 +12,7 @@
 \usepackage[numbers, square]{natbib}
 \usepackage{enumitem}
 
-\title{\vspace{-2cm}MAT292 Final Project: TITLE}
+\title{\vspace{-2cm}MAT292 Final Project Proposal: \\ Modeling PC Gamer Growth with Ordinary Differential Equations}
 \author{Group 11: Arthur Chen - Jerry Jiang - Ben Lian}
 \date{October 3, 2025}
 
@@ -21,10 +21,10 @@
 \maketitle
 
 \section{Motivation and Objectives}
-``The Video Game Industry (VGI) is a highly innovative and rapidly growing sector [...] with significant economic and social implications. [Yet] the literature remains fragmented and lacks a coherent framework for understanding its complex nature and underlying dynamics." \cite{GOH2023100100} We find that predicting the population of gamers over time can apply our research on the interplay between technological advances, affordability, accessibility, and market saturation.\\
+``The Video Game Industry (VGI) is a highly innovative and rapidly growing sector [...] with significant economic and social implications. [Yet] the literature remains fragmented and lacks a coherent framework for understanding its complex nature and underlying dynamics" \cite{GOH2023100100}. Predicting the population of gamers over time can apply our research on the interplay between technological advances, affordability, accessibility, and market saturation.\\
 
 \noindent 
-Our project examines PC gamers, who represent a dominant segment influenced by the affordability of commercial hardware, accessibility of internet infrastructure, and emerging technologies in the market (e.g., VR and cloud gaming). Our goal is to develop a differential equation–based model, primarily combining logistic growth and Bass diffusion, to predict the PC gamer population over time, validate and verify it with available adoption data, and study scenario-based technological shocks (e.g., disruptions from VR).
+Our project focuses specifically PC gamers, who represent a dominant segment influenced by the affordability of commercial hardware, accessibility of internet infrastructure, and emerging technologies in the market (e.g., VR and cloud gaming). Our goal is to develop a differential equation–based model, primarily combining logistic growth and Bass diffusion, to predict the PC gamer population over time, validate it with available adoption data, and study scenario-based technological shocks.
 
 \section{Mathematical and Computational Background}
 Our project uses mathematical concepts from MAT292 to model our analysis of the relationship between PC video game players and tech growth. In our elementary stage, we intend to apply Ordinary Differential Equations (ODE) modelling, focusing on models of logistic growth, Bass adoption/diffusion, and possibly compartmental epidemic models. Machine learning (ML) provides contextual background on the adoption dynamics of networks, accounting for the network of social connections. 
@@ -57,7 +57,7 @@ The growth of video games is a form of consumer adoption of technology, which th
 \begin{figure} [H]
     \centering
     \includegraphics[width=0.5\linewidth]{Image.jpeg}
-    \caption{Social network representation of gamer adoption: Nodes depict individual gamers and Edges represent peer influence. The imitation term in the Bass diffusion model is hence visualized. \cite{10.1093/acprof:oso/9780199206650.003.0006}.}
+    \caption{Social network representation of gamer adoption: Nodes depict individual gamers and Edges represent peer influence. The imitation term in the Bass diffusion model is hence visualized \cite{10.1093/acprof:oso/9780199206650.003.0006}.}
     \label{fig:GraphNodeFigure}
 \end{figure}
 
@@ -92,12 +92,11 @@ Our group plans to deliver the following:
 \begin{itemize} [nosep]
     \item A validated and verified logistic–Bass hybrid model estimating the PC gamer population over time.
     \item Estimation of parameters from historical gamer adoption data.
-    \item Case studies of disruptive technologies (VR, cloud gaming) on future growth.
     \item Graphical and computational products (e.g., simulations and sensitivity analysis).
-    \item Discussion of model limitations and potential improvements (e.g., compartmental churn model and non-linear network effects).
+    \item Case studies of disruptive technologies (VR, cloud gaming, etc.) on future growth.
+    \item Discussion of model limitations and potential improvements (e.g., compartmental churn model and nonlinear network effects).
 
 \end{itemize}
-
 
 \bibliographystyle{plain} % Or abbrv, unsrt, etc.
 \bibliography{ref}
